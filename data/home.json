@@ -1,8 +1,8 @@
 {
     "theme-title" : "",
-    "eventName" : "IO Extended Lima",
+    "eventName" : "Google IO Extended Lima 2019",
     "ytvideo" : "https://www.youtube.com/embed/Osn5Y6N5rG0",
-    "devfest18DetailsSmall" : "IO Extend Lima 2019 are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies.",
+    "devfest18DetailsSmall" : "IO Extend Lima son grandes eventos de desarrolladores dirigidos por la comunidad que tienen lugar en todo el mundo y se centran en la construcción de la comunidad y en el aprendizaje de las tecnologías de Google.",
     "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
     "eventDate" : "6 Julio 2019",
     "eventTime" : "9:00 am",
@@ -40,61 +40,61 @@
     ],
     "overviewSection":[
         {
-            "title" : "Sessions",
-            "des" : "3 parallel tracks, dedicated to Android, Web and Cloud technologies",
+            "title" : "Sesiones",
+            "des" : "1 ambiente, dedicadas a las tecnologías Android, Web y Cloud.",
             "icon" : "fa-microphone"
         },
         {
             "title" : "Showcases",
-            "des" : "Demo zone with the latest of Google tech: Big Data, face recognition, VR, IoT - all in one place",
+            "des" : "Zona de demostración con la última tecnología de Google: Big Data, reconocimiento facial, VR, IoT, todo en un solo lugar",
             "icon" : "fa-lightbulb-o"
         },
         {
             "title" : "Workshops",
-            "des" : "3 workshops to get your hands dirty and create a working prototype right during the conference",
+            "des" : "2 talleres para ensuciarse las manos y crear un prototipo funcional justo durante la conferencia",
             "icon" : "fa-users"
         },
         {
             "title" : "Networking",
-            "des" : "Work hard and enjoy DevFest is the best place to meet new people",
+            "des" : "Trabajar duro y disfrutar de DevFest es el mejor lugar para conocer gente nueva",
             "icon" : "fa-american-sign-language-interpreting"
         }
     ],
     "states":{
-        "title" : "On the edge of Android, Web and Cloud.",
-        "des" : "GDG DevFest Jalandhar brings together people who shape the future of Android, Web and Cloud technologies for 2 days of sessions, workshops and networking. Described by many as 'Google I/O of Jalandhar', our team creates DevFest to be the best place for inspiration and experience sharing.",
+        "title" : "Lo nuevo de Android, Web and Cloud.",
+        "des" : "Google IO Extended Lima 2019 reúne a personas que dan forma al futuro de las tecnologías Android, Web y Cloud durante 2 días de sesiones, talleres y redes. Nuestro equipo crea IO Extended para que sea el mejor lugar para la inspiración y el intercambio de experiencias.",
         "previousEventHighlight" : "https://www.youtube.com/watch?v=O46SRrFxR4c",
 
         "statistics":[
             {
                 "quantity" : "300+",
-                "title" : "Attendees",
+                "title" : "Asistentes",
                 "icon" : "fa-microphone"
             },
             {
-                "quantity" : "3+",
+                "quantity" : "2+",
                 "title" : "Workshop",
                 "icon" : "fa-lightbulb-o"
             },
             {
-                "quantity" : "15+",
+                "quantity" : "6+",
                 "title" : "Sessions",
                 "icon" : "fa-users"
             },
             {
-                "quantity" : "10+",
+                "quantity" : "6+",
                 "title" : "Speakers",
                 "icon" : "fa-american-sign-language-interpreting"
             }
         ]
     },
     "speakerSection" : {
-        "title" : "Our lineup of big thinkers and even bigger doers",
-        "des" : "Get ready to be inspired by speakers who are building a cloud full of opportunity with our partners and customers. Stay tuned as we add more dynamic speakers to our lineup." 
+        "title" : "Nuestra línea de grandes pensadores y aún más grandes",
+        "des" : "Prepárese para inspirarse con los oradores que están construyendo una nube llena de oportunidades con nuestros socios y clientes. Manténgase sintonizado a medida que agregamos más altavoces dinámicos a nuestra línea." 
     },
     "sessionsSection" : {
-        "title" : "Our Theme & Sessions",
-        "des" : "At sessions that span from the technical to the visionary, let’s celebrate and discover what the cloud can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us."
+        "title" : "Nuestro tema y sesiones",
+        "des" : "En sesiones que van desde lo técnico a lo visionario, celebremos y descubramos lo que la nube puede habilitar: cómo la innovación de productos, el código abierto, y el ML y la IA pueden impulsar a las empresas y resolver los grandes problemas que nos afectan a todos."
     }
     
 }

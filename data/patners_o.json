@@ -7,6 +7,18 @@
             "URL":"https://developers.google.com/groups/",
             "PatnerImg":"assets/img/patners/GDG-program-logo.png",
             "width":"160h"
+        },
+        {
+            "name":"WomenTechmakers",
+            "URL":"https://www.womentechmakers.com/",
+            "PatnerImg":"assets/img/patners/WT_logo_horizontal_pos.png",
+            "width":"280h"
+        },
+        {
+            "name":"Mozilla Developers Community",
+            "URL":"https://www.facebook.com/MDCJalandhar/",
+            "PatnerImg":"assets/img/patners/mozilla.png",
+            "width":"140h"
         }
     ]    
 } 
