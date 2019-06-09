@@ -2,26 +2,27 @@
     <div class="row">
         <div class="col-md-8 offset-md-2 pt-3 pb-2">
             <br>
-            <h1 style="font-family: google-sans;font-weight: 300;color: #3c4043;" class="display-5 animated fadeInUp h1-responsive"><b>Registration</b></h1>
-            <p class="google-font animated fadeInUp" ><b>{{regJson.eventInfo.eventName}}</b> Ticket Registration</p>
+            <h1 style="font-family: google-sans;font-weight: 300;color: #3c4043;" class="display-5 animated fadeInUp h1-responsive"><b>Registro</b></h1>
+            <p class="google-font animated fadeInUp" ><b>{{regJson.eventInfo.eventName}} - </b> Registro de entradas</p>
             
             <p style="font-size: 110%" class="mt-2 animated fadeInUp">{{regJson.eventInfo.confirmationMsg}}</p>
-            <p style="font-size: 110%" class="animated fadeInUp">Sign in and register to reserve seats.</p>
-            <p style="font-size: 110%" class="animated fadeInUp">If you have questions or you’re not sure how to proceed, {{regJson.chapterEmail}}.</p>
+            <!---p style="font-size: 110%" class="animated fadeInUp">Sign in and register to reserve seats.</p-->
+            <p style="font-size: 110%" class="animated fadeInUp">Si tiene preguntas o no está seguro de cómo proceder,  {{regJson.chapterEmail}}.</p>
             <br>
 
      
             <br>
             <br>
             
-            <h3 style="font-family: google-sans" class="h3-responsive animated fadeInUp ">Step 1: Sign in </h3>
+            <h3 style="font-family: google-sans" class="h3-responsive animated fadeInUp ">Step 1: Registrarse </h3>
 
             <div id="loginStatus" class="animated fadeInUp">
-                <p class="google-font">You need to sign in with a Google account or a Gmail address to register for this event.</p>
+                <p class="google-font">Debe registrarse con una cuenta de Google o una dirección de Gmail para registrarse para este evento.
+                    <a href="http://bit.ly/ioextlima2019" target="_blank">http://bit.ly/ioextlima2019</a></p>
                 
                 <!-- <p style="font-family: google-sans;"><b> <i class="fa fa-warning" aria-hidden="true" style="color: #FF8800;"></i> If you are from LPU, You need not to fill this form. Just register yourself nearby help-desk at 33 & 34 block at LPU.</b></p> -->
                 
-                <button id="loginWithGoogle" class="btn m-0 btn-primary waves-effect z-depth-0 btn-md mt-3"><i class="fa fa-google" aria-hidden="true"></i>&nbsp; Sign In with Google</button>
+                <button style="display: none;" id="loginWithGoogle" class="btn m-0 btn-primary waves-effect z-depth-0 btn-md mt-3"><i class="fa fa-google" aria-hidden="true"></i>&nbsp; Registrarse</button>
 
                 <br><br><br>
                 

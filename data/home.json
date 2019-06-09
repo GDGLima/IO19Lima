@@ -1,45 +1,40 @@
 {
     "theme-title" : "",
-    "eventName" : "GDG DevFest'18",
+    "eventName" : "IO Extended Lima",
     "ytvideo" : "https://www.youtube.com/embed/Osn5Y6N5rG0",
-    "devfest18DetailsSmall" : "GDG DevFest Jalandhar 2018 are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies.",
+    "devfest18DetailsSmall" : "IO Extend Lima 2019 are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies.",
     "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "eventDate" : "13th & 14 Oct 2018",
-    "eventTime" : "09 am to 5.30 pm",
-    "eventVenue" : "Lovely Professional University",
+    "eventDate" : "6 Julio 2019",
+    "eventTime" : "9:00 am",
+    "eventVenue" : "UPC - Campus Monterrico",
     "hashTag" : [
         {
-            "name" : "#GDGJalandhar"
+            "name" : "#io19lima  "
         },
         {
-            "name" : "#WTMJalandhar"
+            "name" : "#gdglima"
         },
         {
-            "name" : "#GDG"
+            "name" : "#io19extended"
         },
         {
-            "name" : "#WTM"
+            "name" : "#GDGLima"
         }
     ],
     "socialLinks":[
         {
             "name" : "facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
+            "link" : "https://www.facebook.com/gdglima/",
             "icon" : "fa-facebook"
         },
         {
-            "name" : "googleplus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fa-google-plus"
-        },
-        {
             "name" : "twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/gdglima",
             "icon" : "fa-twitter"
         },
         {
             "name" : "meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "https://www.meetup.com/es/gdglima/",
             "icon" : "fa-meetup"
         }
     ],

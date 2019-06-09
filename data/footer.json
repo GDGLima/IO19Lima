@@ -1,26 +1,21 @@
-{   "chaperName" : "GDG Jalandhar",
+{   "chaperName" : "GDG Lima",
     "chapterSocialMediaLinks": {
-        "facebook" : "https://www.facebook.com/GDGJalandhar/",
-        "googlePlus" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-        "twitter" : "https://twitter.com/gdgjalandhar",
-        "meetup" : "https://www.meetup.com/GDG-Jalandhar/",
+        "facebook" : "https://www.facebook.com/gdglima/",
+        "twitter" : "https://twitter.com/gdglima",
+        "meetup" : "https://www.meetup.com/es-ES/gdglima/",
         "youtube" : "",
         "slack" : "",
         "linkedin" : "",
-        "github" : ""
+        "github" : "https://github.com/GDGLima"
     },
     "aboutSection":[
         {
-            "linkName" : "GDG Jalandhar",
-            "link" : "http://gdgjalandhar.com/"
+            "linkName" : "GDG Lima",
+            "link" : "https://www.facebook.com/gdglima/"
         },
         {
             "linkName" : "Google Developers Groups",
             "link" : "https://developers.google.com/programs/community/gdg/"
-        },
-        {
-            "linkName" : "WomenTechamkers",
-            "link" : "https://www.womentechmakers.com/"
         },
         {
             "linkName" : "Meet the Team",
@@ -28,7 +23,7 @@
         },
         {
             "linkName" : "Become a Member",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/"
+            "link" : "https://www.meetup.com/es-ES/gdglima/"
         }
     ],
     "eventResourcesSection" : [
