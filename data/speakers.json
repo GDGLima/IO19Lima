@@ -1,37 +1,62 @@
 [
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Zig Mandel",
+        "company":"Firebase",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Diego Velasquez",
+        "company":"Flutter",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Carlos Ugaz",
+        "company":"Firebase",
         "profileImg":"assets/img/speakers/avatar.png"
     },
       {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Milton Yarleque",
+        "company":" GCP",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Adriana Moya",
+        "company":"Cloud",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Jean Paul Diaz",
+        "company":"PWA",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Speaker Name",
-        "company":"Company Name",
+        "name":"Bruno Aybar",
+        "company":"Kotlin",
+        "profileImg":"assets/img/speakers/avatar.png"
+    },
+    {
+        "name":"Frank Moreno",
+        "company":"Flutter",
+        "profileImg":"assets/img/speakers/avatar.png"
+    },
+    {
+        "name":"Manuel Rodriguez",
+        "company":"Next",
+        "profileImg":"assets/img/speakers/avatar.png"
+    },
+    {
+        "name":"Samuel Leon",
+        "company":"GCP",
+        "profileImg":"assets/img/speakers/avatar.png"
+    },
+    {
+        "name":"Erik Flores",
+        "company":"Firebase",
+        "profileImg":"assets/img/speakers/avatar.png"
+    },
+    {
+        "name":"Eduardo Medina",
+        "company":"Android/Kotlin",
         "profileImg":"assets/img/speakers/avatar.png"
     }
 ]

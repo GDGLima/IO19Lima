@@ -1,58 +1,78 @@
 [
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Firebase",
+        "des":"Como crear un aplicacion web con Firebase - Zig Mandel",
+        "profileImg":"assets/img/firebase.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Dialogflow",
+        "des":"Creando nuestro propio asistente virtual con Dialogflow - Carlo Huaman",
+        "profileImg":"assets/img/gdg logo.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Firebase",
+        "des":"Firebase AutoML Vision Edge - Carlos Ugaz",
+        "profileImg":"assets/img/firebase.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"GCP",
+        "des":"Desplegando tu backend Kotlin en GCP - Milton Yarleque",
+        "profileImg":"assets/img/gdg logo.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Cloud",
+        "des":"Despliega tu infraestructura con Cloud Build - Adriana Moya",
+        "profileImg":"assets/img/gdg logo.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
-    },{
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Sesión",
+        "des":"Creando nuestro propio asistente virtual con Dialogflow - Carlo Huaman",
+        "profileImg":"assets/img/gdg logo.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Kotlin",
+        "des":"Java to Kotlin: From Zero To Hero - Bruno Aybar",
+        "profileImg":"assets/img/kotlin.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Firebase",
+        "des":"Reconocimiento de texto,facial y de objetos en imágenes con Ml Kit de Firebase - Jean Bernuy Charvet",
+        "profileImg":"assets/img/firebase.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Android/Kotlin",
+        "des":"Kotlin First, Desarrolla tu aplicación Android con Kotlin - Eduardo Medina",
+        "profileImg":"assets/img/android.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"PWA",
+        "des":"PWA and what's new in Chrome - Jean Paul Diaz",
+        "profileImg":"assets/img/gdg logo.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Flutter",
+        "des":"Flutter: UI multiplataforma - Frank Moreno",
+        "profileImg":"assets/img/flutter.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Google Assistant",
+        "des":"Build Actions for the Google Assistant - Wendy Morales",
+        "profileImg":"assets/img/gdg logo.svg"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu"
+        "title":"Next",
+        "des":"Next Recap - Manuel Rodriguez",
+        "profileImg":"assets/img/gdg logo.svg"
+    },
+    {
+        "title":"GCP",
+        "des":"GCP Big Query Samuel Leon",
+        "profileImg":"assets/img/gdg logo.svg"
+    },
+    {
+        "title":"Firebase",
+        "des":"Notificaciones Push ASAP usando Firebase Cloud Messaging Erik Flores",
+        "profileImg":"assets/img/firebase.svg"
     }
     
 ]

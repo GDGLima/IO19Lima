@@ -1,35 +1,59 @@
 [
     {
-        "time":"09.00 AM - 09.45 AM",
-        "detail":"Registration"
+        "time":"08.00 AM - 08.30 AM",
+        "detail":"Registration",
+        "track1":"",
+        "track2":"Registro",
+        "track3":"",
+        "track4":""
     },
     {
-        "time":"10.00 AM - 10.15 AM",
-        "detail":"Welcome Keynote"
+        "time":"08.30 AM - 08.45 AM",
+        "detail":"Welcome Keynote",
+        "track1":"",
+        "track2":"Presentación del evento",
+        "track3":"",
+        "track4":""
     },
     {
-        "time":"10.15 AM - 11.00 AM",
-        "detail":"Session 1"
+        "time":"09.00 AM - 10.45 AM",
+        "detail":"Session 1",
+        "track1":"Como crear un aplicacion web con Firebase",
+        "track2":"Flutter: Don't be afraid, State Management is your friend",
+        "track3":"Firebase AutoML Vision Edge",
+        "track4":"Desplegando tu backend Kotlin en GCP"
     },
     {
-        "time":"11.00 AM - 12.00 PM",
-        "detail":"Session 2"
+        "time":"10.45 AM - 12.30 PM",
+        "detail":"Session 2",
+        "track1":"Despliega tu infraestructura con Cloud Build",
+        "track2":"Creando nuestro propio asistente virtual con Dialogflow",
+        "track3":"Java to Kotlin: From Zero To Hero",
+        "track4":"Reconocimiento de texto,facial y de objetos en imágenes con Ml Kit de Firebase"
     },
     {
-        "time":"12.00 PM - 01.00 PM",
-        "detail":"Session 3"
+        "time":"12.30 PM - 14.15 PM",
+        "detail":"Session 3",
+        "track1":"Kotlin en Android Eduardo Medina",
+        "track2":"PWA and what's new in Chrome",
+        "track3":"Flutter: UI multiplataforma",
+        "track4":"Build Actions for the Google Assistant "
     },
     {
-        "time":"01.00 PM - 02.00 PM",
-        "detail":"Session 4"
+        "time":"14.15 PM - 15.45 PM",
+        "detail":"Session 4",
+        "track1":"Next Recap",
+        "track2":"GCP Big Query",
+        "track3":"Notificaciones Push ASAP usando Firebase Cloud Messaging",
+        "track4":""
     },
     {
-        "time":"03.00 PM - 04.00 PM",
-        "detail":"Session 5"
-    },
-    {
-        "time":"04.00 PM - 05.00 PM ",
-        "detail":"Session 6"
+        "time":"15.45 PM - 16.00 PM",
+        "detail":"Session 5",
+        "track1":"",
+        "track2":"Cierre del evento",
+        "track3":"",
+        "track4":""
     }
 
 ]
