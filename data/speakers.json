@@ -2,7 +2,7 @@
     {
         "name":"Diego Velasquez",
         "company":"Flutter",
-        "profileImg":"assets/img/speakers/diegovelasquez.jpeg"
+        "profileImg":"assets/img/speakers/diegovelasquez.png"
     },
     {
         "name":"Milton Yarleque",
@@ -17,12 +17,12 @@
     {
         "name":"Adriana Moya",
         "company":"Cloud",
-        "profileImg":"assets/img/speakers/adrianamoya.jpeg"
+        "profileImg":"assets/img/speakers/adrianamoya.png"
     },
     {
         "name":"Carlo Huaman",
         "company":"Dialogflow",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/renzohuaman.jpeg"
     },
     {
         "name":"Bruno Aybar",
@@ -32,17 +32,17 @@
     {
         "name":"Eduardo Medina",
         "company":"Android/Kotlin",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/eduardomedina.png"
     },
     {
         "name":"Jean Paul Diaz",
         "company":"PWA",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/jean_paul.jpeg"
     },
     {
         "name":"Frank Moreno",
         "company":"Flutter",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/frank_moreno.png"
     },
     {
         "name":"Manuel Rodriguez",
