@@ -47,7 +47,7 @@
     {
         "name":"Manuel Rodriguez",
         "company":"Next",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/manuelrodriguez.jpg"
     },
     {
         "name":"Zig Mandel",
@@ -57,6 +57,6 @@
     {
         "name":"Erik Flores",
         "company":"Firebase",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/erikflores.jpeg"
     }
 ]
