@@ -1,37 +1,42 @@
 [
     {
-        "name":"Zig Mandel",
-        "company":"Firebase",
-        "profileImg":"assets/img/speakers/avatar.png"
-    },
-    {
         "name":"Diego Velasquez",
         "company":"Flutter",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/diegovelasquez.jpeg"
+    },
+    {
+        "name":"Milton Yarleque",
+        "company":" GCP",
+        "profileImg":"assets/img/speakers/milton.png"
     },
     {
         "name":"Carlos Ugaz",
         "company":"Firebase",
-        "profileImg":"assets/img/speakers/avatar.png"
-    },
-      {
-        "name":"Milton Yarleque",
-        "company":" GCP",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/carlosugaz.jpg"
     },
     {
         "name":"Adriana Moya",
         "company":"Cloud",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "profileImg":"assets/img/speakers/adrianamoya.jpeg"
     },
     {
-        "name":"Jean Paul Diaz",
-        "company":"PWA",
+        "name":"Carlo Huaman",
+        "company":"Dialogflow",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
         "name":"Bruno Aybar",
         "company":"Kotlin",
+        "profileImg":"assets/img/speakers/bruno.jpeg"
+    },
+    {
+        "name":"Eduardo Medina",
+        "company":"Android/Kotlin",
+        "profileImg":"assets/img/speakers/avatar.png"
+    },
+    {
+        "name":"Jean Paul Diaz",
+        "company":"PWA",
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
@@ -45,18 +50,13 @@
         "profileImg":"assets/img/speakers/avatar.png"
     },
     {
-        "name":"Samuel Leon",
-        "company":"GCP",
-        "profileImg":"assets/img/speakers/avatar.png"
+        "name":"Zig Mandel",
+        "company":"Firebase",
+        "profileImg":"assets/img/speakers/zig_mandel.jpg"
     },
     {
         "name":"Erik Flores",
         "company":"Firebase",
-        "profileImg":"assets/img/speakers/avatar.png"
-    },
-    {
-        "name":"Eduardo Medina",
-        "company":"Android/Kotlin",
         "profileImg":"assets/img/speakers/avatar.png"
     }
 ]

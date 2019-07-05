@@ -5,7 +5,7 @@
             <div class="container-fluid">
                 <div class="row mt-5 mb-5 align-items-center" > 
                     <div class="col-md-6" style="padding-top: auto; padding-bottom: auto" >
-                        <h1 style="font-family: google-sans;font-weight: 350;color: #3c4043;" class="display-5 animated fadeInUp"><b>Build for <span style="color: #1a73e8;">Digital Wellbeing</span>.</b></h1>
+                        <!--<h1 style="font-family: google-sans;font-weight: 350;color: #3c4043;" class="display-5 animated fadeInUp"><b>Build for <span style="color: #1a73e8;">Digital Wellbeing</span>.</b></h1>-->
                         <br>
                         <h4 style="font-family: google-sans;" class="animated fadeInUp">{{homeJson.eventName}}</h4>
                         <p class="google-font animated fadeInUp">{{ homeJson.devfest18DetailsSmall }}</p>
@@ -38,7 +38,7 @@
                     <div class="col-md-6 d-none d-lg-block">
                         <div class="embed-responsive embed-responsive-16by9 z-depth-2 float-right" style="max-width: 90%;">
                             <!--    Update the SRC Link                          -->
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lyRPyRKHO8M"></iframe>
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o3Lbk6aTvkA"></iframe>
                         </div>
                     </div>
 
@@ -143,7 +143,7 @@
                             <div class="row">
                                 <div class="col-md-3 col-sm-6 mt-4" ng-repeat="sedt in sessionsData | limitTo : 4">
                                     <div class="white p-3 pt-4" style="border-color:#e0e0e0;border-width: 1px;border-style: solid;border-radius: 8px;height:100%">
-                                        <img src="assets/img/gdg logo.svg" alt="GDG Logo" width="30vh" style="background:#fafafa;border-radius: 2px;" class="mb-3">
+                                        <img src="{{sedt.profileImg}}" alt="GDG Logo" width="30vh" style="background:#fafafa;border-radius: 2px;" class="mb-3">
                                         <h5 style="font-family: google-sans;">{{sedt.title}}</h5>
                                         <p>{{sedt.des}}</p>
                                     </div>

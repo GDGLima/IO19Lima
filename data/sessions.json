@@ -1,13 +1,13 @@
 [
     {
-        "title":"Firebase",
-        "des":"Como crear un aplicacion web con Firebase - Zig Mandel",
-        "profileImg":"assets/img/firebase.svg"
+        "title":"Flutter",
+        "des":"Flutter: Don't be afraid, State Management is your friend - Diego Velasquez",
+        "profileImg":"assets/img/flutter.svg" 
     },
     {
-        "title":"Dialogflow",
-        "des":"Creando nuestro propio asistente virtual con Dialogflow - Carlo Huaman",
-        "profileImg":"assets/img/gdg logo.svg"
+        "title":"Google Cloud Platform",
+        "des":"Desplegando tu backend Kotlin en GCP - Milton Yarleque",
+        "profileImg":"assets/img/googlecloud.svg"
     },
     {
         "title":"Firebase",
@@ -15,29 +15,19 @@
         "profileImg":"assets/img/firebase.svg"
     },
     {
-        "title":"GCP",
-        "des":"Desplegando tu backend Kotlin en GCP - Milton Yarleque",
-        "profileImg":"assets/img/gdg logo.svg"
-    },
-    {
-        "title":"Cloud",
+        "title":"Google Cloud Platform",
         "des":"Despliega tu infraestructura con Cloud Build - Adriana Moya",
-        "profileImg":"assets/img/gdg logo.svg"
+        "profileImg":"assets/img/googlecloud.svg"
     },
     {
-        "title":"Sesión",
+        "title":"Dialogflow",
         "des":"Creando nuestro propio asistente virtual con Dialogflow - Carlo Huaman",
-        "profileImg":"assets/img/gdg logo.svg"
+        "profileImg":"assets/img/dialogflow.png"
     },
     {
         "title":"Kotlin",
         "des":"Java to Kotlin: From Zero To Hero - Bruno Aybar",
         "profileImg":"assets/img/kotlin.svg"
-    },
-    {
-        "title":"Firebase",
-        "des":"Reconocimiento de texto,facial y de objetos en imágenes con Ml Kit de Firebase - Jean Bernuy Charvet",
-        "profileImg":"assets/img/firebase.svg"
     },
     {
         "title":"Android/Kotlin",
@@ -47,7 +37,7 @@
     {
         "title":"PWA",
         "des":"PWA and what's new in Chrome - Jean Paul Diaz",
-        "profileImg":"assets/img/gdg logo.svg"
+        "profileImg":"assets/img/chrome.svg"
     },
     {
         "title":"Flutter",
@@ -55,24 +45,18 @@
         "profileImg":"assets/img/flutter.svg"
     },
     {
-        "title":"Google Assistant",
-        "des":"Build Actions for the Google Assistant - Wendy Morales",
-        "profileImg":"assets/img/gdg logo.svg"
-    },
-    {
         "title":"Next",
         "des":"Next Recap - Manuel Rodriguez",
-        "profileImg":"assets/img/gdg logo.svg"
-    },
-    {
-        "title":"GCP",
-        "des":"GCP Big Query Samuel Leon",
-        "profileImg":"assets/img/gdg logo.svg"
+        "profileImg":"assets/img/googlecloud.svg"
     },
     {
         "title":"Firebase",
-        "des":"Notificaciones Push ASAP usando Firebase Cloud Messaging Erik Flores",
+        "des":"Como crear un aplicacion web con Firebase - Zig Mandel",
         "profileImg":"assets/img/firebase.svg"
-    }
-    
+    },
+    {
+        "title":"Firebase",
+        "des":"Notificaciones Push ASAP usando Firebase Cloud Messaging - Erik Flores",
+        "profileImg":"assets/img/firebase.svg"
+    }   
 ]
